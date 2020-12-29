@@ -30,7 +30,7 @@ public class PrimitiveTypes {
         int intValue = 'a';
         System.out.println("charMin = ["+charMin+"]");
         System.out.println("charMax = ["+charMax+"]");
-        System.out.println("intvalue = ["+intValue+"]");
+        System.out.println("intValue = ["+intValue+"]");
     }
 
     public void checkBoolean()  {
