@@ -11,7 +11,7 @@ public class ControlWhile {
         int loop = 0;
         while (++loop <=12) {
             System.out.println(loop+"월");
-            if (loop ==6) break;
+            if (loop == 6) break;
         }
     }
 }
