@@ -8,11 +8,13 @@ public class ReferenceOverLoading {
     public void print(int data) {
 
     }
-    public void print(String strData)  {
+    public void print(String stringData)  {
 
     }
     public void print(int intData, String stringData)   {
 
     }
-    public void print(String strinData, int )
+    public void print(String stringData, int intData)   {
+
+    }
 }
