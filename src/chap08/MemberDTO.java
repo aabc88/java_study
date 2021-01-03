@@ -20,4 +20,7 @@ public class MemberDTO {
         this.phone = phone;
         this.email = email;
     }
+    public String toString()    {
+        return "name = "+name+"phone = "+0+"email = "+email;
+    }
 }
