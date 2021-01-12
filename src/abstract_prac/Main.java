@@ -15,6 +15,6 @@ public class Main {
 
         animal_ab = new Cat();
         animal_ab.sound();
-        
+
     }
 }
